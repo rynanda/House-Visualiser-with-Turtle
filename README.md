@@ -1,2 +1,2 @@
-# House-Visualiser-with-Turtle
-Developing a program using Python Turtle to draw a visualisation (Houses and Nature's Elements) following a given dataset. As part of IFB104 - Building IT Systems
+# House Visualiser with Turtle
+Processing data stored in lists, creating reusable code using functions, and following instructions to display a complex visual image. Fills a grid with various symbols following a given dataset/list. For this, Python Turtle was used to draw different variations of houses line by line.
